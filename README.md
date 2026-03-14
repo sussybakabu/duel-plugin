@@ -21,9 +21,3 @@ You can also use Gradle if your local environment supports it.
 2. Copy `target/duel-plugin-1.0.0.jar` into your server `plugins/` folder.
 3. Restart server.
 
-## Next features you may want
-
-- Configurable duel arenas
-- Duel countdown and kit selection
-- ELO / ranked duels
-- Duel cooldowns and anti-spam
